@@ -1,1 +1,1 @@
-include ':Demos1', ':Demos2'
+include ':Demos1', ':Demos2', ':AndLibs'

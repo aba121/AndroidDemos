@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndLibs/AndLibs.iml" filepath="$PROJECT_DIR$/AndLibs/AndLibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos1/Demos1.iml" filepath="$PROJECT_DIR$/Demos1/Demos1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demos2/Demos2.iml" filepath="$PROJECT_DIR$/Demos2/Demos2.iml" />

@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndLibs" />
             <option value="$PROJECT_DIR$/Demos1" />
             <option value="$PROJECT_DIR$/Demos2" />
           </set>
